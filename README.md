@@ -132,14 +132,14 @@ Results, Advantages and Conclusion
 Results
 ```
 
-##The Bidirectional Visitor Counter was successfully developed and tested. The following results were achieved:
+## The Bidirectional Visitor Counter was successfully developed and tested. The following results were achieved:
 
 Accurate detection of entry and exit.
 Real-time counting of people inside.
 Reliable sequence-based direction detection.
 Stable performance using IR sensors and Arduino.
 
-##Conclusion
+## Conclusion
 
 The Arduino-based Bidirectional Visitor Counter effectively tracks the number of people entering and exiting a space using IR sensors. The system uses simple logic to determine direction and maintain an accurate count.
 
